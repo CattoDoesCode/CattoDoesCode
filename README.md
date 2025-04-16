@@ -1,4 +1,4 @@
-﻿### <div align="center">I'm CatoDoesCode, a part-time web developer 👨‍💻 creating bugs since 2019🚀</div>  
+﻿### <div align="center">I'm CattoDoesCode, a part-time web developer 👨‍💻 creating bugs since 2019🚀</div>  
   
 
 - 🔭 I’m currently working on our Thesis [humay.ai](https://humay-ai-v1.web.app/)  
